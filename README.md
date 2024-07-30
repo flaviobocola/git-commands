@@ -9,7 +9,7 @@ enjoy :D
 | command | purpose |
 | ------ | ----- |
 | 'git init' | initializes your local git |
-| 'git add ...' | add file in staging area |
+| 'git add *file name*' | add file in staging area |
 | 'git add .' | add all the modified/new files to the staging area |
 | 'git commit -m "*message*"' | commit the changes |
 | 'git commit -m "*message*" *file name/s* | commit the file/s specified without staging |
