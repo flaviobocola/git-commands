@@ -49,3 +49,8 @@ match the old version|
 | 'git log oneline' | view changes (without details) |
 | 'git log -p' | show the changes |
 | 'git log --summary' | view changes (detailed) |
+
+
+
+
+little bonus: [here](https://explainshell.com/explain?cmd=git+branch+-M+main)'s a site where you can see what every command does
