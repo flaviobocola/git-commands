@@ -5,6 +5,7 @@ enjoy :D
 ## GIT-related commands
 
 | command | purpose |
+| ------ | ----- |
 | 'git init' | initializes your local git |
 | 'git add ...' | add file in staging area |
 | 'git add .' | add all the modified/new files to the staging area |
@@ -16,6 +17,7 @@ enjoy :D
 ### GIT-branch related commands
 
 | command | purpose |
+| ------ | ----- |
 | 'git branch' | shows all the local branches |
 | 'git branch -a' | shows local + cloud-repo branches|
 | 'git branch *name*' | create a branch with the selected name |
@@ -27,6 +29,7 @@ enjoy :D
 ### GIT-changes related commands
 
 | command | purpose |
+| ------ | ----- |
 | 'git checkout -- *name of file*' | delete file changes |
 | 'git restore --staged "*file name*" | restore a file in the index to match the version in HEAD |
 | 'git restore --source *source name*~*num* *file name* | move num commits back o f the *source name* branch and restore the index *file name* to
@@ -41,6 +44,7 @@ match the old version|
 ### GIT-log related commands
 
 | command | purpose |
+| ------ | ----- |
 | 'git log' | view changes |
 | 'git log oneline' | view changes (without details) |
 | 'git log -p' | show the changes |
