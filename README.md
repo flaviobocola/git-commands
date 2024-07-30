@@ -6,8 +6,6 @@ enjoy :D
 
 ## GIT-related commands
 
-=======================
-
 | command | purpose |
 | ------ | ----- |
 | 'git init' | initializes your local git |
@@ -64,8 +62,6 @@ match the old version|
 ---
 
 ## GITHUB-related commands
-
-==========================
 
 | command | purpose |
 | ----- | ----- |
